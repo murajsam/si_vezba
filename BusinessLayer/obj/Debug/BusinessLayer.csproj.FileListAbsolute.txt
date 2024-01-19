@@ -1,0 +1,9 @@
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.pdb
